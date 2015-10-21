@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="UnityServer/UnityServer.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnityServer/Program.cs">
+    <Files>
+      <File FileName="UnityServer/Program.cs" Line="146" Column="5" />
+      <File FileName="UnityServer/Log.cs" Line="1" Column="1" />
+      <File FileName="UnityServer/Commander.cs" Line="200" Column="12" />
+      <File FileName="UnityServer/Users.cs" Line="1" Column="1" />
+      <File FileName="UnityServer/NetworkObjectList.cs" Line="1" Column="1" />
+      <File FileName="UnityServer/AltimitConverter.cs" Line="1" Column="1" />
+      <File FileName="UnityServer/Rooms.cs" Line="1" Column="1" />
+      <File FileName="UnityServer/Quaternion.cs" Line="1" Column="1" />
+      <File FileName="UnityServer/Vector3.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
